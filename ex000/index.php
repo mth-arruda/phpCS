@@ -15,6 +15,6 @@
     </h1>
     <p>Vamos aprender tudo certinho e nos livrar da bomba do azar.</p>
 
-        <p>ME dca o cuzinho gaby do sesi agy zao grandao</p>
+       
 </body>
 </html>
